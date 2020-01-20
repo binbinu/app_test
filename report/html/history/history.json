@@ -1,0 +1,22 @@
+{
+  "360a66c97a8fd9b1afd2ce12a387e367" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c034d9fba0ba5e5a",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up",
+      "time" : {
+        "start" : 1579501783988,
+        "stop" : 1579501786996,
+        "duration" : 3008
+      }
+    } ]
+  }
+}

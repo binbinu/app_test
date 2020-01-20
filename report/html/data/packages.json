@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "Test.test_login",
+    "children" : [ {
+      "name" : "test_code_null_register",
+      "uid" : "c034d9fba0ba5e5a",
+      "parentUid" : "804240fee73c4e04ccf61c6bd40ed6ad",
+      "status" : "broken",
+      "time" : {
+        "start" : 1579501783988,
+        "stop" : 1579501786996,
+        "duration" : 3008
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "Test.test_login"
+  } ]
+}

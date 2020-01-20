@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-I18N0F6",
+    "children" : [ {
+      "name" : "19040-MainThread",
+      "children" : [ {
+        "name" : "test_code_null_register",
+        "uid" : "c034d9fba0ba5e5a",
+        "parentUid" : "9f21b6faf0280d81e214588987a91906",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579501783988,
+          "stop" : 1579501786996,
+          "duration" : 3008
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f21b6faf0280d81e214588987a91906"
+    } ],
+    "uid" : "791b6ea9f93ea86b5e8446d1574c1511"
+  } ]
+}

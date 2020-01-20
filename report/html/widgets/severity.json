@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c034d9fba0ba5e5a",
+  "name" : "test_code_null_register",
+  "time" : {
+    "start" : 1579501783988,
+    "stop" : 1579501786996,
+    "duration" : 3008
+  },
+  "status" : "broken",
+  "severity" : "blocker"
+} ]

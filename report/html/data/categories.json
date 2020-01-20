@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: An unknown server-side error occurred while processing the command. Original error: Could not proxy command to remote server. Original error: Error: socket hang up",
+      "children" : [ {
+        "name" : "test_code_null_register",
+        "uid" : "c034d9fba0ba5e5a",
+        "parentUid" : "61210c8c1bc92ab0b3c53e7d2009b9f7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1579501783988,
+          "stop" : 1579501786996,
+          "duration" : 3008
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "61210c8c1bc92ab0b3c53e7d2009b9f7"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

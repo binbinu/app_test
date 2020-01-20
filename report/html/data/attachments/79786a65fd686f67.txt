@@ -1,0 +1,13 @@
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session {"capabilities": {"firstMatch": [{"platformName": "Android", "appium:platformVersion": "9", "appium:deviceName": "7XBRX19403011092", "appium:appPackage": "com.rjjk_doctor", "appium:appActivity": ".MainActivity", "appium:unicodeKeyboard": true, "appium:resetKeyboard": true, "appium:autoGrantPermissions": true, "appium:noReset": false}]}, "desiredCapabilities": {"platformName": "Android", "platformVersion": "9", "deviceName": "7XBRX19403011092", "appPackage": "com.rjjk_doctor", "appActivity": ".MainActivity", "unicodeKeyboard": true, "resetKeyboard": true, "autoGrantPermissions": true, "noReset": false}}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:206 Starting new HTTP connection (1): 127.0.0.1:4723
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:4723 "POST /wd/hub/session HTTP/1.1" 200 1002
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/99aec12f-042e-4ba0-92ab-9a28cf26a0eb/element {"using": "xpath", "value": "//*[@text=\"\u624b\u673a\u53f7\u5feb\u901f\u6ce8\u518c\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:4723 "POST /wd/hub/session/99aec12f-042e-4ba0-92ab-9a28cf26a0eb/element HTTP/1.1" 404 446
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/99aec12f-042e-4ba0-92ab-9a28cf26a0eb/element {"using": "xpath", "value": "//*[@text=\"\u624b\u673a\u53f7\u5feb\u901f\u6ce8\u518c\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:4723 "POST /wd/hub/session/99aec12f-042e-4ba0-92ab-9a28cf26a0eb/element HTTP/1.1" 404 446
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:4723/wd/hub/session/99aec12f-042e-4ba0-92ab-9a28cf26a0eb/element {"using": "xpath", "value": "//*[@text=\"\u624b\u673a\u53f7\u5feb\u901f\u6ce8\u518c\"]"}
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:4723 "POST /wd/hub/session/99aec12f-042e-4ba0-92ab-9a28cf26a0eb/element HTTP/1.1" 500 589
+[35mDEBUG   [0m selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request

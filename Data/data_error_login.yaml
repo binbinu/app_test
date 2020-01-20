@@ -1,0 +1,37 @@
+test_login_error:
+  test_login_error_1:
+    num: 18888888888
+    pwd: 12345678
+    info: "请填写正确密码"
+
+  test_login_error_2:
+    num: 18170650681
+    pwd: 12345678
+    info: "此用户不存在，请注册"
+
+  test_login_error_3:
+    num: 1817065068
+    pwd: 12345678
+    info: "请输入11位手机号"
+
+  test_login_error_4:
+    num: \n、\r、\t、\’
+    pwd: 12345678
+    info: "请输入11位手机号"
+
+  test_login_error_5:
+    num: 测试输入中文
+    pwd: 12345678
+    info: "请输入11位手机号"
+
+  test_login_error_6:
+    num: ！@#￥% ……&*
+    pwd: 12345678
+    info: "请输入11位手机号"
+
+  test_login_error_7:
+    num: 0
+    pwd: 12345678
+    info: "请输入11位手机号"
+
+
