@@ -18,7 +18,7 @@ humanize==0.5.1
 idna==2.8
 importlib-metadata==0.18
 logzero==1.5.0
-lxml==4.3.4
+lxml==4.9.1
 more-itertools==7.1.0
 namedlist==1.7
 packaging==19.0
